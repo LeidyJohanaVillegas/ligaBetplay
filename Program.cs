@@ -31,7 +31,7 @@ class Program
                     SubMenuTransferencia.Mostrar();
                     break;
                 case "4":
-                    //SubmenuEstadisticas.Mostrar();
+                    SubMenuEstadistica.Mostrar();
                     break;
                 case "5":
                     salir = true;
