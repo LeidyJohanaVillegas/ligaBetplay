@@ -1,0 +1,14 @@
+D:\Projects_NET\ligaBetplay\bin\Debug\net9.0\ligaBetplay.exe
+D:\Projects_NET\ligaBetplay\bin\Debug\net9.0\ligaBetplay.deps.json
+D:\Projects_NET\ligaBetplay\bin\Debug\net9.0\ligaBetplay.runtimeconfig.json
+D:\Projects_NET\ligaBetplay\bin\Debug\net9.0\ligaBetplay.dll
+D:\Projects_NET\ligaBetplay\bin\Debug\net9.0\ligaBetplay.pdb
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\ligaBetplay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\ligaBetplay.AssemblyInfoInputs.cache
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\ligaBetplay.AssemblyInfo.cs
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\ligaBetplay.csproj.CoreCompileInputs.cache
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\ligaBetplay.dll
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\refint\ligaBetplay.dll
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\ligaBetplay.pdb
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\ligaBetplay.genruntimeconfig.cache
+D:\Projects_NET\ligaBetplay\obj\Debug\net9.0\ref\ligaBetplay.dll
